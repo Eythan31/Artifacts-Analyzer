@@ -33,6 +33,7 @@ RELATIVE_THRESHOLD = 1.2 #Relevance ratio
 MIN_NBR_ITEMS = 5
 CSV_DELIMITER = ","
 REMOVE_FIRST_COLUMN = True #in case the first column contains an identifier which should not be used in the search for invariants (otherwise, use False)
+NEGATE_CATEGORICAL_VARIABLES = False #should categorical variables be negated as well or only boolean variables
 ########################################
 
 
@@ -53,9 +54,11 @@ INPUT_FILE_ALL_BOOLS = "input-all-booleans.csv"
 #columns, erases them and replaces them with booleans.
 #####################################################
 
+all_categ_columns = []
+
 def analyze(inputFileName, outputFileName):    
     print_headers()
-    new_list=prepare_data(inputFileName)
+    new_list = prepare_data(inputFileName)
     testAll(new_list)
 
 
@@ -79,8 +82,8 @@ def prepare_data(inputFileName):
     if(REMOVE_FIRST_COLUMN):
         delete_first_column(my_list)
     convertMissingDataToUnknown(my_list)    
-    new_list=convertCategoriesToBooleanStrings(my_list)    
-    new_list=convertStringsToBooleans(new_list)
+    new_list = convertCategoriesToBooleanStrings(my_list)    
+    new_list = convertStringsToBooleans(new_list)
     write_list_to_csv(new_list, "processed_data_2.csv") #for checking purposes
     return new_list    
     
@@ -117,21 +120,23 @@ def convert_to_uppercase(my_list):
         for j in range(len(my_list[i])):
             my_list[i][j] = my_list[i][j].upper()
     
+    
 def convertCategoriesToBooleanStrings(my_list):
     names = my_list[0]
     #create empty rows in new list
-    new_list=[]
+    new_list = []
     for i in range(len(my_list)):
         new_list.append([])
      
-    for j in range(len(names)):#for each column   
-        if not column_is_categorial(my_list, j): #if boolean column, copy the column            
+    for j in range(len(names)): # for each column   
+        if not column_is_categorial(my_list, j): # if boolean column, copy the column            
             for i in range(0,len(new_list)):
                 new_list[i].append(my_list[i][j])
         else:            
             values = get_all_categorial_values(my_list, j)            
             for value in values:
                 new_list[0].append(my_list[0][j]+"="+value)
+                all_categ_columns.append(my_list[0][j]+"="+value)
             for i in range(1,len(my_list)):
                 value_in_row = my_list[i][j]
                 for value in values:
@@ -326,14 +331,23 @@ def testAll(my_list):
                     (inv, perc) = AimpliesBpercent(my_list, col1, col2, True,True, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )
                     i = printInvariantResult(inv, perc, i, dic)
 
-                    (inv, perc) = AimpliesBpercent(my_list, col1, col2, True,False, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )                    
-                    i = printInvariantResult(inv, perc, i, dic)
+                    if (not NEGATE_CATEGORICAL_VARIABLES) and (name2 in all_categ_columns):
+                        pass#print("not testing categ col " + name2)
+                    else:
+                        (inv, perc) = AimpliesBpercent(my_list, col1, col2, True,False, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )                    
+                        i = printInvariantResult(inv, perc, i, dic)
                     
-                    (inv, perc) = AimpliesBpercent(my_list, col1, col2, False, True, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )
-                    i = printInvariantResult(inv, perc, i, dic)                      
+                    if (not NEGATE_CATEGORICAL_VARIABLES) and (name1 in all_categ_columns):
+                        pass#print("not testing categ col " + name1)
+                    else:
+                        (inv, perc) = AimpliesBpercent(my_list, col1, col2, False, True, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )
+                        i = printInvariantResult(inv, perc, i, dic)                      
 
-                    (inv, perc) = AimpliesBpercent(my_list, col1, col2, False, False, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )
-                    i = printInvariantResult(inv, perc, i, dic)
+                    if (not NEGATE_CATEGORICAL_VARIABLES) and (name2 in all_categ_columns or name1 in all_categ_columns) :
+                        pass#print("not testing categ cols " + name1 + ", "+ name2)
+                    else:
+                        (inv, perc) = AimpliesBpercent(my_list, col1, col2, False, False, ABS_THRESHOLD, RELATIVE_THRESHOLD, MIN_NBR_ITEMS )
+                        i = printInvariantResult(inv, perc, i, dic)
     
     
     print("Non-absolute invariants (sorted)")
