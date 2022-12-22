@@ -27,9 +27,9 @@
 ########################################
 ## PARAMETERS (TO BE SET BY THE USER) ##
 ########################################
-INPUT_FILE = "seals-2022-08-31.csv"
-ABS_THRESHOLD = 80  #Relevance ratio
-RELATIVE_THRESHOLD = 1.2
+INPUT_FILE = "seals-JUDAH-ONLY.csv"
+ABS_THRESHOLD = 80  
+RELATIVE_THRESHOLD = 1.2 #Relevance ratio
 MIN_NBR_ITEMS = 5
 CSV_DELIMITER = ","
 REMOVE_FIRST_COLUMN = True #in case the first column contains an identifier which should not be used in the search for invariants (otherwise, use False)
