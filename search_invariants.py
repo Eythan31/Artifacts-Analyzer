@@ -27,15 +27,15 @@
 ########################################
 ## PARAMETERS (TO BE SET BY THE USER) ##
 ########################################
-INPUT_FILE = "Book1.csv"
-ABS_THRESHOLD = 90
+INPUT_FILE = "seals-ABRIDGED-2023-03-05.csv"
+ABS_THRESHOLD = 75
 RELATIVE_THRESHOLD = 2 #Relevance ratio
 MIN_NBR_ITEMS = 4
-CSV_DELIMITER = ","
-REMOVE_FIRST_COLUMN = False #in case the first column contains an identifier which should not be used in the search for invariants (otherwise, use False)
+CSV_DELIMITER = ";"
+REMOVE_FIRST_COLUMN = True #in case the first column contains an identifier which should not be used in the search for invariants (otherwise, use False)
 NEGATE_CATEGORICAL_VARIABLES = False #should categorical variables be negated as well or only boolean variables
 DO_NOT_NEGATE_FIRST_VARIABLE = True #do not search for invariants of the shape NOT(A) => B and NOT(A) => NOT(B)
-CONTRAST_THRESHOLD = 80 # threshold for contrasting invariants (for the "MOSTLY/USUALLY" category)
+CONTRAST_THRESHOLD = 75 # threshold for contrasting invariants (for the "MOSTLY/USUALLY" category)
 ########################################
 
 
@@ -84,9 +84,15 @@ class Invariant:
         self.ALWAYS = "always"
         self.MOSTLY = "mostly"
         self.OFTEN = "often"
-        self.NOT_OFTEN = "not often"
+        self.NOT_OFTEN = "occasionally"
         self.RARELY = "rarely"
         self.NEVER = "never"
+        self.ALWAYS_PERCENTAGE = 100
+        self.MOSTLY_THRESHOLD = 75
+        self.OFTEN_THRESHOLD = 50
+        self.NOT_OFTEN_THRESHOLD = 25
+        self.RARELY_THRESHOLD = 0
+        self.NEVER_PERCENTAGE = 0
         
     def initStats(self):
         index_1 = self.bool_matrix[0].index(self.col1Bool)
@@ -226,15 +232,15 @@ class Invariant:
         return self.col2
     
     def frequencyLabel(self):
-        if self.getPercentage() == 100:
+        if self.getPercentage() == self.ALWAYS_PERCENTAGE:
             return self.ALWAYS
-        elif self.getPercentage() >= CONTRAST_THRESHOLD:
+        elif self.getPercentage() >= self.MOSTLY_THRESHOLD:
             return self.MOSTLY
-        elif self.getPercentage() >= 50:
+        elif self.getPercentage() >= self.OFTEN_THRESHOLD:
             return self.OFTEN
-        elif self.getPercentage() > (100-CONTRAST_THRESHOLD):
+        elif self.getPercentage() > self.NOT_OFTEN_THRESHOLD:
             return self.NOT_OFTEN
-        elif self.getPercentage() > 0:
+        elif self.getPercentage() > self.RARELY_THRESHOLD:
             return self.RARELY
         else:
             return self.NEVER
@@ -941,6 +947,7 @@ def oppose(name1, name2=""):
     
 
 def contrast(my_list, filename, name1, name2=""):
+    rowList=[]
     found = False
     row1 = []
     row2 = []
@@ -983,7 +990,7 @@ def contrast(my_list, filename, name1, name2=""):
                     print(" on ", right, ": ", INV1.frequencyLabel(), " (", INV1.getPercentageAndFraction(),   ") vs ", INV2.frequencyLabel(), " (", INV2.getPercentageAndFraction(), ")", sep="")
                 row1.append(INV1.frequencyLabel() + " (" + str(INV1.getPercentage()) + "%)" + "  ["+ str(INV1.getFraction())+"]")
                 row2.append(INV2.frequencyLabel() + " (" + str(INV2.getPercentage()) + "%)" + "  ["+ str(INV2.getFraction())+"]")                        
-
+                rowList.append([INV1.frequencyLabel() + " (" + str(INV1.getPercentage()) + "%)" + "  ["+ str(INV1.getFraction())+"]", INV2.frequencyLabel() + " (" + str(INV2.getPercentage()) + "%)" + "  ["+ str(INV2.getFraction())+"]"])
     
     if not found:
         print("No opposed variables found")
@@ -994,12 +1001,17 @@ def contrast(my_list, filename, name1, name2=""):
         fig.patch.set_visible(False)
         ax.axis('off')
         ax.axis('tight')
-        ax.table(cellText=[row1, row2],
-                          rowLabels=rowNames,
-                          colLabels=colNames,
+        # ax.table(cellText=[row1, row2],
+        #                   rowLabels=rowNames,
+        #                   colLabels=colNames,
+        #                   cellLoc="center",
+        #                   loc="top")
+        ax.table(cellText=rowList,
+                          rowLabels=colNames,
+                          colLabels=rowNames,
                           cellLoc="center",
                           loc="top")
-        fig.tight_layout()
+        #fig.tight_layout()
         #plt.savefig(filename+".pdf")
         plt.savefig(filename+".png", dpi=300)
         plt.show()
