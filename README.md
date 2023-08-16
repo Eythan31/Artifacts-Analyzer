@@ -1,3 +1,3 @@
 # Artifacts-Analyzer
 
-The artifacts analyzer is a Python script for analyzing data sets of archaeological artifacts containing only Boolean and categorical variables. More info on the program and its usage are to be found in the script header.
+The artifacts analyzer is a Python script for finding correlations among features of archaeological artifacts, for data sets containing Boolean and categorical variables. The program takes a CSV file as input, and outputs text describing meaningful correlations between the variables. It also allows users to contrast two sets of artifacts based on a specific feature (for example, artifacts from two different regions). A Windows executable version of the Artifacts Analyzer (beta version) can be downloaded [here](https://drive.google.com/file/d/1ePPUOuLFRZHPZKGk_ZjKDvHkapPWLmPH/view?usp=sharing): save the zip file to any location on your computer, uncompress it, and lauch the "main.exe" file. 
