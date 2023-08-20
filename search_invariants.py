@@ -27,15 +27,23 @@
 ########################################
 ## PARAMETERS (TO BE SET BY THE USER) ##
 ########################################
-INPUT_FILE = "seals-ABRIDGED-2023-03-05.csv"
+INPUT_FILE = "seals-ABRIDGED-2023-07-31.csv"#"seals-ABRIDGED-2023-07-31.csv"
 ABS_THRESHOLD = 75
-RELATIVE_THRESHOLD = 2 #Relevance ratio
+RELATIVE_THRESHOLD = 2 #Relevance ratio for invariants
 MIN_NBR_ITEMS = 4
-CSV_DELIMITER = ";"
+MIN_NBR_ITEMS_CONTRASTS = 5 #minimun nbr of items for inclusion in contrast table when one of the invariants as 0 occurrences
+CSV_DELIMITER = ","
 REMOVE_FIRST_COLUMN = True #in case the first column contains an identifier which should not be used in the search for invariants (otherwise, use False)
 NEGATE_CATEGORICAL_VARIABLES = False #should categorical variables be negated as well or only boolean variables
 DO_NOT_NEGATE_FIRST_VARIABLE = True #do not search for invariants of the shape NOT(A) => B and NOT(A) => NOT(B)
-CONTRAST_THRESHOLD = 75 # threshold for contrasting invariants (for the "MOSTLY/USUALLY" category)
+#Contrasts:
+CONTRAST_BY_RATIO = False
+RELATIVE_THRESHOLD_CONTRASTS = 1.5 #Relevance ratio for contrasts
+CONTRAST_BY_SKIPPING = True
+CONTRASTS_SKIPPED_CLASSES = 1 # Minimum number of classes to be skipped to be considered as a contrast (0 if none to be skipped)
+CONTRAST_BY_GAP = False # Do we want sliding contrast gaps?
+SLIDING_CONTRASTS_GAP = 25#Sliding contrasts gap, in percents
+#CONTRAST_THRESHOLD = 75 # threshold for contrasting invariants (for the "MOSTLY/USUALLY" category)
 ########################################
 
 
@@ -84,18 +92,22 @@ class Invariant:
         self.ALWAYS = "always"
         self.MOSTLY = "mostly"
         self.OFTEN = "often"
-        self.NOT_OFTEN = "occasionally"
+        self.OCCASIONALLY = "occasionally"
         self.RARELY = "rarely"
         self.NEVER = "never"
         self.ALWAYS_PERCENTAGE = 100
         self.MOSTLY_THRESHOLD = 75
         self.OFTEN_THRESHOLD = 50
-        self.NOT_OFTEN_THRESHOLD = 25
+        self.OCCASIONALLY_THRESHOLD = 25
         self.RARELY_THRESHOLD = 0
         self.NEVER_PERCENTAGE = 0
         
     def initStats(self):
-        index_1 = self.bool_matrix[0].index(self.col1Bool)
+        try:
+            index_1 = self.bool_matrix[0].index(self.col1Bool)
+        except:
+            print(self.bool_matrix[0])
+            print(self.col1Bool)
         index_2 = self.bool_matrix[0].index(self.col2Bool)
         for row in self.bool_matrix[1:]:        
             a = row[index_1]
@@ -238,63 +250,56 @@ class Invariant:
             return self.MOSTLY
         elif self.getPercentage() >= self.OFTEN_THRESHOLD:
             return self.OFTEN
-        elif self.getPercentage() > self.NOT_OFTEN_THRESHOLD:
-            return self.NOT_OFTEN
+        elif self.getPercentage() > self.OCCASIONALLY_THRESHOLD:
+            return self.OCCASIONALLY
         elif self.getPercentage() > self.RARELY_THRESHOLD:
             return self.RARELY
         else:
             return self.NEVER
+        
+    def getFrequencyAsRank(self): #returns the frequency as an integer (NEVER=0, ALWAYS=5)
+        if self.frequencyLabel() == self.ALWAYS:
+            return 5
+        elif self.frequencyLabel() == self.MOSTLY:
+            return 4
+        elif self.frequencyLabel() == self.OFTEN:
+            return 3
+        elif self.frequencyLabel() == self.OCCASIONALLY:
+            return 2
+        elif self.frequencyLabel() == self.RARELY:
+            return 1
+        elif self.frequencyLabel() == self.NEVER:
+            return 0
     
     def contrastsTo(self, other):
         freq1 = self.frequencyLabel()
         freq2 = other.frequencyLabel()
         return  self.countLeftIsTrue != 0 and other.countLeftIsTrue != 0 and\
-                ((freq1 == self.ALWAYS and freq2 == self.NOT_OFTEN) or \
-                (freq1 == self.ALWAYS and freq2 == self.RARELY) or \
-                (freq1 == self.ALWAYS and freq2 == self.NEVER) or \
-                (freq1 == self.MOSTLY and freq2 == self.NOT_OFTEN) or \
-                (freq1 == self.MOSTLY and freq2 == self.RARELY) or \
-                (freq1 == self.MOSTLY and freq2 == self.NEVER) or \
-                (freq1 == self.OFTEN  and freq2 == self.RARELY) or \
-                (freq1 == self.OFTEN  and freq2 == self.NEVER) or\
-                (freq2 == self.ALWAYS and freq1 == self.NOT_OFTEN) or \
-                (freq2 == self.ALWAYS and freq1 == self.RARELY) or \
-                (freq2 == self.ALWAYS and freq1 == self.NEVER) or \
-                (freq2 == self.MOSTLY and freq1 == self.NOT_OFTEN) or \
-                (freq2 == self.MOSTLY and freq1 == self.RARELY) or \
-                (freq2 == self.MOSTLY and freq1 == self.NEVER) or \
-                (freq2 == self.OFTEN  and freq1 == self.RARELY) or \
-                (freq2 == self.OFTEN  and freq1 == self.NEVER))
+                (CONTRAST_BY_SKIPPING and (abs(self.getFrequencyAsRank() - other.getFrequencyAsRank()) > CONTRASTS_SKIPPED_CLASSES) or \
+                (CONTRAST_BY_GAP and abs(self.getPercentage() - other.getPercentage()) > SLIDING_CONTRASTS_GAP) or\
+                # ((freq1 == self.ALWAYS and freq2 == self.OCCASIONALLY) or \
+                # (freq1 == self.ALWAYS and freq2 == self.RARELY) or \
+                # (freq1 == self.ALWAYS and freq2 == self.NEVER) or \
+                # (freq1 == self.ALWAYS and freq2 == self.OFTEN) or \
+                # (freq1 == self.MOSTLY and freq2 == self.OCCASIONALLY) or \
+                # (freq1 == self.MOSTLY and freq2 == self.RARELY) or \
+                # (freq1 == self.MOSTLY and freq2 == self.NEVER) or \
+                # (freq1 == self.OFTEN  and freq2 == self.RARELY) or \
+                # (freq1 == self.OFTEN  and freq2 == self.NEVER) or\
+                # (freq2 == self.ALWAYS and freq1 == self.OCCASIONALLY) or \
+                # (freq2 == self.ALWAYS and freq1 == self.RARELY) or \
+                # (freq2 == self.ALWAYS and freq1 == self.NEVER) or \
+                # (freq2 == self.MOSTLY and freq1 == self.OCCASIONALLY) or \
+                # (freq2 == self.MOSTLY and freq1 == self.RARELY) or \
+                # (freq2 == self.MOSTLY and freq1 == self.NEVER) or \
+                # (freq2 == self.OFTEN  and freq1 == self.RARELY) or \
+                # (freq2 == self.OFTEN  and freq1 == self.NEVER) or\
+                # (freq1 == self.OCCASIONALLY and freq2 == self.NEVER) or \
+                (CONTRAST_BY_RATIO and self.getFrequencyAsRank() != other.getFrequencyAsRank()\
+                      and min(self.getPercentage(),other.getPercentage())>0 \
+                      and max(self.getPercentage(),other.getPercentage())/min(self.getPercentage(),other.getPercentage()) > RELATIVE_THRESHOLD_CONTRASTS)) #or\
+                #(min(self.getPercentage(),other.getPercentage())==0 and max(self.getNbrOfAttestations(),other.getNbrOfAttestations()) > MIN_NBR_ITEMS_CONTRASTS)) 
 
-############################################################
-# Main function, that launches the complete analysis.
-############################################################
-def analyze(inputFileName, outputFileName):
-    print_headers()    
-    new_list = prepare_data(inputFileName, outputFileName)    
-    
-    #testAll(new_list) #old version
-    
-    # Absolute invariants
-    list_inv = findAllAbsoluteInvariants(new_list, MIN_NBR_ITEMS)#testAllInvariants(new_list, min_nbr_items=MIN_NBR_ITEMS)     
-    printAbsoluteInvariantsConcised(list_inv)     
-    draw_abs_unvariants_bip(list_inv, ["Polity"])
-    print()
- 
-    # Non-absolute Invariants
-    list_inv = findAllNonAbsoluteInvariants(new_list, MIN_NBR_ITEMS, ABS_THRESHOLD) #testAllInvariants(new_list, MIN_NBR_ITEMS, ABS_THRESHOLD)
-    printNonAbsoluteInvariantsConcised(list_inv, ABS_THRESHOLD)
-    draw_abs_unvariants_bip(list_inv, ["Polity"])
-    
-    #Invariants of type "more often than"
-    list_inv, list_cpl_inv = findAllMoreOftenThanInvariants(new_list, MIN_NBR_ITEMS, RELATIVE_THRESHOLD)#testAllInvariants(new_list, MIN_NBR_ITEMS, 0, RELATIVE_THRESHOLD)
-    printMoreOftenInvariantsConcised(list_inv, list_cpl_inv, rel_threshold=RELATIVE_THRESHOLD)
-    draw_abs_unvariants_bip(list_inv, ["Polity"])
-    #TODO: make a graphical representation of these invariants (same graph as before?)
-
-    contrast(new_list, "Iconic", "Iconic")    
-    contrast(new_list, "Israel-Judah", "Polity=Judah", "Polity=Israel")
-    contrast(new_list, "test-handle", "Type=Handle")
 
 
 ############################################################
@@ -962,14 +967,19 @@ def contrast(my_list, filename, name1, name2=""):
         rightVar = right.split('=')[0]
         name1Var = name1.split('=')[0]
         name2Var = name2.split('=')[0]
+        
         if name1Var != rightVar and name2Var != rightVar: # do not compare categorical columns (those having an equality sign) if they have the same prefix                                                    
+            
             INV1 = Invariant(my_list, name1, right, True, True)  
             if name2 == "":
                 INV2 = Invariant(my_list, name1, right, False, True)                
             else:
-                INV2 = Invariant(my_list, name2, right, True, True)                
-            if INV1.contrastsTo(INV2):
-                
+                INV2 = Invariant(my_list, name2, right, True, True)    
+            #if right=="Divider":
+            #    print("-----------",right, ": ", INV1.frequencyLabel(), " (", INV1.getPercentageAndFraction() ,   ") vs ", INV2.frequencyLabel(), " (", INV2.getPercentageAndFraction(), ")", sep="")
+            if INV1.contrastsTo(INV2): 
+                #if self.getCol2()=="Divider":
+                #print("-----",right)
                 #print( INV1.countLeftIsTrue != 0 and INV2.countLeftIsTrue != 0)
                 colNames.append(right)
                 if not found:
@@ -991,7 +1001,7 @@ def contrast(my_list, filename, name1, name2=""):
                 row1.append(INV1.frequencyLabel() + " (" + str(INV1.getPercentage()) + "%)" + "  ["+ str(INV1.getFraction())+"]")
                 row2.append(INV2.frequencyLabel() + " (" + str(INV2.getPercentage()) + "%)" + "  ["+ str(INV2.getFraction())+"]")                        
                 rowList.append([INV1.frequencyLabel() + " (" + str(INV1.getPercentage()) + "%)" + "  ["+ str(INV1.getFraction())+"]", INV2.frequencyLabel() + " (" + str(INV2.getPercentage()) + "%)" + "  ["+ str(INV2.getFraction())+"]"])
-    
+
     if not found:
         print("No opposed variables found")
     else:
@@ -1006,11 +1016,12 @@ def contrast(my_list, filename, name1, name2=""):
         #                   colLabels=colNames,
         #                   cellLoc="center",
         #                   loc="top")
+
         ax.table(cellText=rowList,
                           rowLabels=colNames,
                           colLabels=rowNames,
                           cellLoc="center",
-                          loc="top")
+                          loc="bottom")
         #fig.tight_layout()
         #plt.savefig(filename+".pdf")
         plt.savefig(filename+".png", dpi=300)
@@ -1051,6 +1062,38 @@ def contrast(my_list, filename, name1, name2=""):
 #    plt.show()
 #    
     
+############################################################
+# Main function, that launches the complete analysis.
+############################################################
+def analyze(inputFileName, outputFileName):
+    print_headers()    
+    new_list = prepare_data(inputFileName, outputFileName)    
+    
+    #testAll(new_list) #old version
+    
+    # Absolute invariants
+    list_inv = findAllAbsoluteInvariants(new_list, MIN_NBR_ITEMS)#testAllInvariants(new_list, min_nbr_items=MIN_NBR_ITEMS)     
+    printAbsoluteInvariantsConcised(list_inv)     
+    #draw_abs_unvariants_bip(list_inv, ["Polity"])
+    print()
+ 
+    # Non-absolute Invariants
+    list_inv = findAllNonAbsoluteInvariants(new_list, MIN_NBR_ITEMS, ABS_THRESHOLD) #testAllInvariants(new_list, MIN_NBR_ITEMS, ABS_THRESHOLD)
+    printNonAbsoluteInvariantsConcised(list_inv, ABS_THRESHOLD)
+    #draw_abs_unvariants_bip(list_inv, ["Polity"])
+    
+    #Invariants of type "more often than"
+    list_inv, list_cpl_inv = findAllMoreOftenThanInvariants(new_list, MIN_NBR_ITEMS, RELATIVE_THRESHOLD)#testAllInvariants(new_list, MIN_NBR_ITEMS, 0, RELATIVE_THRESHOLD)
+    printMoreOftenInvariantsConcised(list_inv, list_cpl_inv, rel_threshold=RELATIVE_THRESHOLD)
+    #draw_abs_unvariants_bip(list_inv, ["Polity"])
+    #TODO: make a graphical representation of these invariants (same graph as before?)
+
+    #contrast(new_list, "Iconic", "Iconic")    
+    contrast(new_list, "Israel-Judah", "Polity=Israel", "Polity=Judah")
+    #contrast(new_list, "test-handle", "Attestation=Handle")
+    #contrast(new_list, "Jerusalem-Judah", "Provenance=Jerusalem")
+
+
 ################################################                       
 ################ MAIN ##########################                       
 ################################################
