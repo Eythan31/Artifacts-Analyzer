@@ -1,291 +1,291 @@
-Short reference;Type;Region;Iconic;Patronymic;Papponymic;Title;Divider;Divider type;Border;Border type;Orientation;Object shape;Material;Perforation;Yahwistic name;Yahwistic patronym;Elohistic name;Elohistic patronym;Belonging mark (lamed);Filiation mark (bn/bt);Provenance;Size range
-WSS 150;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 210;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;TRUE;TRUE;FALSE;FALSE;FALSE;Jerusalem;[80-100]%
-WSS 52;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;TRUE;Beth Shemesh;[80-100]%
-WSS 8;Tripartite;Judah;TRUE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Double-line;Vertical;Scaraboid;Stone;TRUE;TRUE;;FALSE;;TRUE;;Tell en-Nasbeh;[80-100]%
-WSS 350;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Lachish;[80-100]%
-WSS 59;Exergual;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scarab;Stone;TRUE;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Lachish;[80-100]%
-WSS 385;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Lachish;[80-100]%
-WSS 293;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Polished pebble;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Beth Shemesh;[80-100]%
-WSS 360;Bipartite;Judah;FALSE;;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;;;;;TRUE;FALSE;Lachish;[80-100]%
-Tufnell et al. 1953: Pl. 44A/45.168;Bipartite;Judah;TRUE;FALSE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;;;;;;;Lachish;[80-100]%
-Tufnell et al. 1953: Pl. 44A/45.158;Exergual;Judah;TRUE;FALSE;FALSE;;TRUE;Single-line;TRUE;Single-line;Vertical;Conoid;Stone;TRUE;;;;;;;Lachish;[60-79]%
-WSS 220;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Elongated rectangle;TRUE;;Horizontal;Eight-faceted flattened conoid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Gibeon;[40-59]%
-WSS 94;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Two sets of double lines separated by dots;TRUE;Single-line;Symmetric;Square plaque;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;En Gedi;[80-100]%
-WSS 172;Plain iconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;TRUE;Single-line;Horizontal;Square stamp;Stone;TRUE;FALSE;;FALSE;;FALSE;;En Gedi;[80-100]%
-WSS 212;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Qiryat Yearim;[40-59]%
-WSS 132;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;;FALSE;;TRUE;TRUE;Arad;[60-79]%
-WSS 147;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 70;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;TRUE;TRUE;FALSE;TRUE;TRUE;Arad;[60-79]%
-WSS 71;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line with fan-shaped ends;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;TRUE;TRUE;FALSE;TRUE;TRUE;Arad;[60-79]%
-WSS 72;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Double-line;Horizontal;Scaraboid;Artificial;TRUE;FALSE;TRUE;TRUE;FALSE;TRUE;TRUE;Arad;[80-100]%
-WSS 111;Tripartite;Judah;FALSE;TRUE;TRUE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Arad;[80-100]%
-WSS 261;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[60-79]%
-CSAPI Khirbet Abu Tabaq 1;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;;FALSE;;;TRUE;Khirbet Abu Tabaq;[80-100]%
-WSS 35;Plain iconic;Judah;TRUE;TRUE;FALSE;FALSE;FALSE;;TRUE;Single-line;Symmetric;Scaraboid;Organic;TRUE;FALSE;FALSE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 326;Bipartite;Judah;TRUE;FALSE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;;FALSE;;FALSE;;Jerusalem;[80-100]%
-CSAPI Beth Shemesh 217;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line with dot(s);TRUE;Single-line;Symmetric;Square plaque;Stone;TRUE;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Beth Shemesh;[80-100]%
-CSAPI Jerusalem 102;Bipartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;Scaraboid;Organic;TRUE;FALSE;FALSE;TRUE;FALSE;TRUE;FALSE;Jerusalem;[60-79]%
-CSAPI Jerusalem 28;Bipartite;Judah;FALSE;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;;;;;TRUE;;Jerusalem;[60-79]%
-CSAPI Jerusalem 125;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line with dot(s);TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-CSAPI Jerusalem 126;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Bifacial plaque;Metal;TRUE;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-CSAPI Jerusalem 127;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line with dot(s);TRUE;Double-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-CSAPI Beth Shemesh 23;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;FALSE;TRUE;TRUE;TRUE;FALSE;Beth Shemesh;[60-79]%
-CSAPI Jerusalem 337;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-CSAPI Jerusalem 338;Bipartite;Judah;FALSE;;FALSE;;TRUE;Double-line;TRUE;Double-line;Horizontal;Scaraboid;Organic;TRUE;;;;;TRUE;;Jerusalem;
-CSAPI Jerusalem 339;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Ladder pattern;TRUE;Single-line;Horizontal;Scaraboid;Organic;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-CSAPI Jerusalem 340;Plain iconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;FALSE;;Vertical;Scaraboid;Stone;TRUE;FALSE;FALSE;FALSE;;TRUE;;Jerusalem;[80-100]%
-CSAPI Jerusalem 290;Bipartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-CSAPI Jerusalem 292;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;Scaraboid;Organic;TRUE;FALSE;TRUE;FALSE;FALSE;TRUE;;Jerusalem;[60-79]%
-CSAPI Jerusalem 44a;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;;;;TRUE;FALSE;FALSE;;;Jerusalem;[80-100]%
-CSAPI Jerusalem 351;Plain iconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;FALSE;;Vertical;Scaraboid;Stone;FALSE;FALSE;FALSE;FALSE;;FALSE;;Jerusalem;[40-59]%
-Lipschits 2011;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Rope pattern;TRUE;Single-line;Horizontal;Scaraboid;Organic;TRUE;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;Ramat Rahel;[80-100]%
-CSAPI Jerusalem 341;Exergual;Judah;TRUE;FALSE;FALSE;FALSE;TRUE;Single-line;;Single-line;Vertical;Scaraboid;Stone;FALSE;FALSE;FALSE;;;TRUE;;Jerusalem;[80-100]%
-CSAPI Jerusalem 342;;Judah;FALSE;TRUE;;FALSE;;;TRUE;Double-line;Horizontal;Scaraboid;Organic;TRUE;;;;;;TRUE;Jerusalem;
-Shukron 2012;Tripartite;Judah;FALSE;TRUE;TRUE;FALSE;TRUE;Double-line;TRUE;Double-line;Vertical;;Stone;;TRUE;;FALSE;;TRUE;TRUE;Jerusalem;
-Ziffer 2015;Plain aniconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;;FALSE;;TRUE;;Mal?ata;[60-79]%
-Ben-Ami and Misgav 2016: fig. 2;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-Ben-Ami and Misgav 2016: fig. 3;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Rope pattern;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-Vainstub and Ben-Shlomo 2016;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Hebron;[80-100]%
-CSAPI Jerusalem 44b;Bipartite;Judah;FALSE;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Artificial;;;;;;;;Jerusalem;[60-79]%
-CSAPI Jerusalem 310;Plain aniconic;Judah;FALSE;FALSE;FALSE;FALSE;FALSE;;FALSE;;Horizontal;Scaraboid;Stone;;FALSE;FALSE;FALSE;;TRUE;;Jerusalem;[60-79]%
-Mendel-Geberovitch et al. 2019: 158-161;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-Mendel-Geberovich et al. 2020: Fig. 5;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;Scaraboid;Stone;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;FALSE;Jerusalem;[80-100]%
-Vukosavovi? et al. 2024;Plain iconic;Judah;TRUE;TRUE;FALSE;FALSE;FALSE;;TRUE;Single-line;Vertical;Scaraboid;Stone;TRUE;TRUE;TRUE;FALSE;FALSE;TRUE;;Jerusalem;[80-100]%
-WSS 536;Plain aniconic;Judah;FALSE;FALSE;FALSE;FALSE;FALSE;;TRUE;Single-line;Horizontal;;;;FALSE;;FALSE;;FALSE;;Tell el-Judeideh;
-WSS 639;Plain iconic;Judah;TRUE;;FALSE;FALSE;FALSE;;TRUE;;Horizontal;;;;;;;;TRUE;TRUE;Tell el-Judeideh;
-WSS 412;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Beth Zur;[60-79]%
-WSS 405;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;TRUE;;Lachish;[80-100]%
-WSS 498;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Lachish;[80-100]%
-WSS 524;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line terminating in loops;TRUE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Lachish;
-WSS 571;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Lachish;[80-100]%
-WSS 577;Bipartite;Judah;FALSE;;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Lachish;
-WSS 523;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;TRUE;FALSE;TRUE;FALSE;Lachish;[80-100]%
-WSS 416;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;;TRUE;;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Lachish;[80-100]%
-WSS 530;Plain aniconic;Judah;FALSE;TRUE;TRUE;FALSE;FALSE;;TRUE;Double-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Lachish;[60-79]%
-Aharoni 1968: no. 8;;Judah;;;;;TRUE;Double-line;TRUE;;Horizontal;;;;;;;;;;Lachish;
-Aharoni 1968: no. 9;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;TRUE;;FALSE;;;TRUE;Lachish;
-Aharoni 1968: no. 10;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;;;Horizontal;;;;TRUE;FALSE;;TRUE;;FALSE;Lachish;
-Aharoni 1968: no. 11;;Judah;;;;;TRUE;Lotus-bud;TRUE;;Horizontal;;;;;;;;;;Lachish;
-Aharoni 1968: no. 12;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;TRUE;;FALSE;;TRUE;;Lachish;
-Aharoni 1968: no. 13;;Judah;;;;;TRUE;;;;Horizontal;;;;;;;;;;Lachish;
-Aharoni 1968: no. 14;;Judah;;;;;;;;;Horizontal;;;;;;;;;;Lachish;[60-79]%
-Aharoni 1968: no. 15;;Judah;;;;;;;;;Horizontal;;;;;;;;;;Lachish;
-Aharoni 1968: no. 16;;Judah;;;;;TRUE;Double-line;;;Horizontal;;;;;;;;;;Lachish;
-Aharoni 1968: no. 17;;Judah;;;;;;;;;Horizontal;;;;;;;;;;Lachish;[80-100]%
-WSS 661;;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Vertical;;;;;;;;TRUE;FALSE;Beersheba;
-WSS 568;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Triple-line;TRUE;Double-line;Horizontal;;;;TRUE;FALSE;FALSE;TRUE;TRUE;FALSE;Tell el-Hesi;[80-100]%
-WSS 459;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 470;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 596;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 458;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 500;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 420;;Judah;FALSE;TRUE;FALSE;TRUE;TRUE;Double-line;TRUE;;Vertical;;;;FALSE;;;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 636;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 448;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;FALSE;TRUE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 541;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 450;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[60-79]%
-WSS 447;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 515;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 467;;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Ladder pattern;TRUE;Single-line;Horizontal;;;;;;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 637;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 626;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 469;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 440;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line terminating in loops;TRUE;;Horizontal;;;;FALSE;FALSE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 638;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 508;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 437;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 599;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 463;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 503;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 588;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;TRUE;Jerusalem;
-WSS 581;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Biconcave;TRUE;Double-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 644;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 429;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;[60-79]%
-WSS 441;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;FALSE;FALSE;TRUE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 511;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 643;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 573;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line with dot(s);TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 509;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Triple-line;TRUE;;Horizontal;;;;FALSE;FALSE;;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 482;;Judah;FALSE;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 586;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;
-WSS 466;Bipartite;Judah;FALSE;;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;;;;;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 605;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;;TRUE;;FALSE;TRUE;FALSE;Jerusalem;[80-100]%
-WSS 474;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;
-WSS 660;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;;TRUE;;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 427;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 510;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;;TRUE;;FALSE;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 464;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Biconcave;TRUE;Double-line;Horizontal;;;;;;;;TRUE;TRUE;Jerusalem;
-WSS 595;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Jerusalem;[60-79]%
-WSS 518;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B9;Plain aniconic;Judah;FALSE;TRUE;TRUE;FALSE;FALSE;;FALSE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;
-CSAPI Jerusalem 521;Tripartite;Judah;;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Vertical;;;;TRUE;;FALSE;;;;Jerusalem;
-CSAPI Jerusalem 291;;Judah;TRUE;;;;TRUE;Double-line;TRUE;Double-line;Vertical;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 293;;Judah;;TRUE;;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;;;;;TRUE;;;;;Jerusalem;
-CSAPI Jerusalem 294;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;FALSE;;;Jerusalem;[80-100]%
-Mazar & Livyatan Ben-Arie 2015: n. B4;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;
-Ben-Ami and Tchekhanovets 2010: 70-72;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Vertical;;;;FALSE;TRUE;FALSE;FALSE;;;Jerusalem;
-CSAPI Jerusalem 285;;Judah;TRUE;;;;;;;;;;;;;;;;;;Jerusalem;
-Faust 2011;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Vertical;;;;TRUE;TRUE;FALSE;FALSE;;;Tel Eton;[60-79]%
-Barkay 2011;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Reich 2012;;Judah;;;;FALSE;TRUE;Single-line;;;Vertical;;;;;;;;;;Jerusalem;
-Gadot et al. 2013;Bipartite;Judah;FALSE;;FALSE;;TRUE;Double-line;TRUE;;Horizontal;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B1-B2;Bipartite;Judah;FALSE;TRUE;FALSE;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B3;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Symmetric;;;;FALSE;FALSE;TRUE;FALSE;;FALSE;Jerusalem;[80-100]%
-Mazar & Livyatan Ben-Arie 2015: n. B5;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B6;;Judah;;;;;TRUE;Ladder pattern;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B7;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;;TRUE;;FALSE;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B8;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B10;;Judah;;TRUE;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B11;Bipartite;Judah;;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B12;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;;;Horizontal;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B13;;Judah;FALSE;TRUE;;;;;TRUE;Double-line;;;;;TRUE;;FALSE;;TRUE;FALSE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B14;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B15;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line terminating in loops;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B16;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;;;Horizontal;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B17;;Judah;;;;;TRUE;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B18;;Judah;;TRUE;;FALSE;TRUE;Double-line;TRUE;Double-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B19;;Judah;;TRUE;;FALSE;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B20;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Triple-line;TRUE;Double-line;Symmetric;;;;;;FALSE;;TRUE;;Jerusalem;[80-100]%
-Mazar & Livyatan Ben-Arie 2015: n. B21;;Judah;;;;;TRUE;Double-line;;;Horizontal;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B22;;Judah;;TRUE;;FALSE;TRUE;;TRUE;Single-line;;;;;;;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B23;;Judah;;TRUE;;FALSE;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B24;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B25;;Judah;;;;;TRUE;Single-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B26;;Judah;;;;;;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B27;;Judah;FALSE;;;;TRUE;Double-line;;;Horizontal;;;;;;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B28;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;FALSE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B29;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B30;;Judah;;;;;;;TRUE;Double-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B31;;Judah;;;;;;;TRUE;Single-line;;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B32;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B33;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B34;;Judah;;;;;;;TRUE;Double-line;;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B35;;Judah;FALSE;;;;TRUE;Double-line;;;Horizontal;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B36;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B37;;Judah;FALSE;TRUE;;;;;;;;;;;TRUE;TRUE;FALSE;FALSE;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B38;;Judah;;;;;;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B39;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B40;;Judah;;;;;;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B41;;Judah;;;;;TRUE;Ladder pattern;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B42;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B43;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B44;;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;;;Horizontal;;;;;TRUE;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B45;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B46;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B47;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B48;;Judah;FALSE;;;;TRUE;Double-line;TRUE;Single-line;Vertical;;;;;;;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B49;;Judah;FALSE;TRUE;;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B50;;Judah;;TRUE;FALSE;FALSE;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B51;;Judah;;;;;;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B52;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B53;;Judah;;;;;TRUE;Double-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B59;Plain iconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;TRUE;Single-line;Horizontal;;;;FALSE;;FALSE;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B62;;Judah;TRUE;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B63;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B64;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2015: n. B65;Plain iconic;Judah;TRUE;;;;FALSE;;TRUE;Double-line;;;;;;;;;;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B1;Plain iconic;Judah;TRUE;TRUE;FALSE;TRUE;FALSE;;TRUE;Triple-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Jerusalem;
-CSAPI Jerusalem 226;;Judah;TRUE;;;;;;TRUE;;;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 296;;Judah;TRUE;;;;;;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 297;Bipartite;Judah;FALSE;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 298;Bipartite;Judah;FALSE;;;;TRUE;Double-line;;;Horizontal;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 299;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 300;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 301;Bipartite;Judah;FALSE;TRUE;;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;;TRUE;;;;;Jerusalem;
-CSAPI Jerusalem 302;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 303;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 304;Bipartite;Judah;FALSE;;;;TRUE;Double-line;;;Horizontal;;;;;TRUE;;;;;Jerusalem;
-CSAPI Jerusalem 305;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Biconcave;;;Horizontal;;;;;;;;;;Jerusalem;
-CSAPI Jerusalem 306;;Judah;;;;;TRUE;Double-line;TRUE;;;;;;;;;;;;Jerusalem;
-Ornan et al. 2017;Exergual;Judah;TRUE;;FALSE;FALSE;TRUE;Double-line;TRUE;;Vertical;;;;;;;;TRUE;;Jerusalem;[80-100]%
-Mazar & Livyatan Ben-Arie 2018: n. B2-B4;Tripartite;Judah;FALSE;TRUE;TRUE;FALSE;TRUE;Double-line;;;Vertical;;;;FALSE;FALSE;TRUE;FALSE;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B5;Plain aniconic;Judah;FALSE;TRUE;TRUE;FALSE;FALSE;;TRUE;;Vertical;;;;FALSE;;FALSE;;TRUE;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B6;;Judah;;;;FALSE;TRUE;Double-line;TRUE;Double-line;;;;;;;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B7;;Judah;;;;FALSE;;;;;;;;;;;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B8;;Judah;;;;FALSE;TRUE;Double-line;TRUE;Dot border between lines;;;;;;;;;;TRUE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B9;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B10;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B11;Tripartite;Judah;TRUE;FALSE;FALSE;FALSE;TRUE;Single-line;TRUE;Double-line;Vertical;;;;FALSE;;FALSE;;TRUE;;Jerusalem;
-Mazar & Livyatan Ben-Arie 2018: n. B12;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Vertical;;;;TRUE;FALSE;FALSE;FALSE;TRUE;FALSE;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B13;;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;;;Horizontal;;;;;TRUE;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B14;;Judah;;;;;;;TRUE;Ladder pattern;;;;;;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B15;Bipartite;Judah;FALSE;;FALSE;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;TRUE;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B16;;Judah;;;;;;;;;;;;;;;;;TRUE;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B17;;Judah;TRUE;;;;TRUE;Double-line;TRUE;Dot border between lines;Vertical;;;;;;;;TRUE;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B18;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;;;;;TRUE;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B19;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B20;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;;;Horizontal;;;;TRUE;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B21;;Judah;TRUE;;;;;;TRUE;Double-line;;;;;;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B22;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B23;Bipartite;Judah;FALSE;;;;TRUE;Double-line;TRUE;Dot border between lines;Horizontal;;;;;;;;;;Jerusalem;
-Mazar and Livyatan Ben-Arie 2018: n. B24;;Judah;;;;;;;;;;;;;;;;;;;Jerusalem;
-Klingbeil et al. 2019: no. A-B;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Dot border between lines;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Lachish;
-Klingbeil et al. 2019: no. C;Tripartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Vertical;;;;;;;;;TRUE;Lachish;
-Mendel-Geberovitch et al. 2019: 161-166;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Double-line;Horizontal;;;;FALSE;;FALSE;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 1;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 2;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 3;;Judah;;;;;TRUE;Single-line;;;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 4;;Judah;;TRUE;;;TRUE;Double-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 5;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 6;;Judah;;;;;TRUE;;;;;;;;TRUE;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 7;;Judah;;TRUE;;;TRUE;Single-line;;;;;;;TRUE;;FALSE;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 8;;Judah;;TRUE;;FALSE;TRUE;Triple-line;TRUE;Single-line;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 9;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;;;Jerusalem;[80-100]%
-Mendel-Geberovich et al. 2020: no. 10;;Judah;TRUE;;;;TRUE;Single-line;;;Horizontal;;;;;TRUE;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 11;;Judah;TRUE;TRUE;;FALSE;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 12;Bipartite;Judah;FALSE;;;;TRUE;Biconcave;;;Horizontal;;;;;TRUE;;;;;Jerusalem;
-Mendel-Geberovich et al. 2020: no. 13;;Judah;;;;;TRUE;Double-line;;;;;;;;;;;;;Jerusalem;
-Vukosavovi? and Chalaf 2020: Fig. 2;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Triple-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;;;Jerusalem;
-Vukosavovi? and Chalaf 2020: Fig. 4;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;;;Jerusalem;
-Unpublished (in the news in July 2021);Bipartite;Judah;TRUE;TRUE;FALSE;FALSE;TRUE;Double-line;;;Horizontal;;;;FALSE;;FALSE;;;TRUE;Jerusalem;
-Vanderhooft et al. 2022;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;;FALSE;;;;Jerusalem;
-WSS 700;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Symmetric;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 667;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 676;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 684;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[60-79]%
-WSS 691;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 702;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 703;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;TRUE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 709;;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;FALSE;;Horizontal;;;;;;;;;;Provincial Judah;
-WSS 663;Bipartite;Judah;FALSE;FALSE;FALSE;TRUE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;;TRUE;;TRUE;;Provincial Judah;[60-79]%
-WSS 666;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Symmetric;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 698;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-CSAPI Beth Shemesh 199;;Judah;FALSE;;;;FALSE;;TRUE;Single-line;Symmetric;;;;;;;;;;Provincial Judah;[80-100]%
-WSS 670;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 674;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 677;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 694;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 696;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 679;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 682;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 690;Plain aniconic;Judah;FALSE;FALSE;FALSE;FALSE;FALSE;;TRUE;Single-line;Horizontal;;;;FALSE;;FALSE;;TRUE;;Provincial Judah;
-WSS 701;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 704;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[60-79]%
-WSS 706;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 707;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Symmetric;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-Diringer 1941: 53, No. 19, Pl. 4:10;;Judah;;;;;;;TRUE;;;;;;;;;;;;Provincial Judah;
-Diringer 1941: 49, No. 11, Pl. IV:4;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;;Horizontal;;;;;TRUE;;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 665;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[60-79]%
-WSS 697;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[80-100]%
-WSS 680;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 699;;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;;TRUE;;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;
-Aharoni 1962: 44, no. 2;Bipartite;Judah;FALSE;;;;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;;;;;;;Provincial Judah;[80-100]%
-Aharoni 1962: 19, no. 4;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-Aharoni 1962: 18-19, no. 3;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;FALSE;;TRUE;TRUE;;Provincial Judah;
-Aharoni 1962: 44, no. 1;Bipartite;Judah;;;;;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;;;;;TRUE;;Provincial Judah;
-WSS 673;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;[60-79]%
-WSS 686;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-WSS 685;Plain iconic;Judah;TRUE;FALSE;FALSE;FALSE;FALSE;;TRUE;;Horizontal;;;;FALSE;;FALSE;;TRUE;;Provincial Judah;
-WSS 683;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;;;;;TRUE;FALSE;Provincial Judah;[80-100]%
-Ussishkin 2004: 2137, no. 80;;Judah;;TRUE;FALSE;FALSE;TRUE;Single-line;;;Horizontal;;;;TRUE;FALSE;FALSE;FALSE;;;Provincial Judah;
-WSS 664;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-WSS 688;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Symmetric;;;;FALSE;TRUE;FALSE;FALSE;TRUE;TRUE;Jerusalem;[80-100]%
-Ussishkin 2004: 2138, no. 91;;Judah;;TRUE;FALSE;FALSE;;;;;Symmetric;;;;;;;;;TRUE;Provincial Judah;
-CSAPI Jerusalem 103;Plain aniconic;Judah;FALSE;TRUE;FALSE;FALSE;FALSE;;;;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;;FALSE;Jerusalem;[80-100]%
-CSAPI Jerusalem 106;;Judah;;;;;TRUE;Double-line;;;Horizontal;;;;;;;;;;Jerusalem;
-Seligman 2009;Plain aniconic;Judah;FALSE;TRUE;FALSE;FALSE;FALSE;;;;Horizontal;;;;FALSE;TRUE;FALSE;FALSE;FALSE;FALSE;Provincial Judah;
-Lipschits 2010;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Single-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;TRUE;TRUE;FALSE;Provincial Judah;[80-100]%
-Shai et al. 2014;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Double-line;TRUE;Single-line;Horizontal;;;;FALSE;FALSE;FALSE;FALSE;TRUE;FALSE;Provincial Judah;[80-100]%
-Garfinkel et al. 2021;Bipartite;Judah;FALSE;TRUE;FALSE;FALSE;TRUE;Lotus-bud;;;Horizontal;;;;TRUE;TRUE;;FALSE;TRUE;TRUE;Provincial Judah;[80-100]%
-Sapir et al. 2023: no. 17;Bipartite;Judah;;;;;TRUE;Double-line;;;Horizontal;;;;;;;;;;Provincial Judah;
+Short reference,Type,Region,Iconic,Patronymic,Papponymic,Title,Divider,Divider type,Border,Border type,Orientation,Object shape,Material,Perforation,Yahwistic name,Yahwistic patronym,Elohistic name,Elohistic patronym,Belonging mark (lamed),Filiation mark (bn/bt),Provenance,Size range
+WSS 150,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 210,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,Jerusalem,[80-100]%
+WSS 52,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,Beth Shemesh,[80-100]%
+WSS 8,Tripartite,Judah,TRUE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Double-line,Vertical,Scaraboid,Stone,TRUE,TRUE,,FALSE,,TRUE,,Tell en-Nasbeh,[80-100]%
+WSS 350,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lachish,[80-100]%
+WSS 59,Exergual,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scarab,Stone,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lachish,[80-100]%
+WSS 385,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Lachish,[80-100]%
+WSS 293,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Polished pebble,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Beth Shemesh,[80-100]%
+WSS 360,Bipartite,Judah,FALSE,,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,,,,,TRUE,FALSE,Lachish,[80-100]%
+Tufnell et al. 1953: Pl. 44A/45.168,Bipartite,Judah,TRUE,FALSE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,,,,,,,Lachish,[80-100]%
+Tufnell et al. 1953: Pl. 44A/45.158,Exergual,Judah,TRUE,FALSE,FALSE,,TRUE,Single-line,TRUE,Single-line,Vertical,Conoid,Stone,TRUE,,,,,,,Lachish,[60-79]%
+WSS 220,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Elongated rectangle,TRUE,,Horizontal,Eight-faceted flattened conoid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Gibeon,[40-59]%
+WSS 94,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Two sets of double lines separated by dots,TRUE,Single-line,Symmetric,Square plaque,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,En Gedi,[80-100]%
+WSS 172,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,Square stamp,Stone,TRUE,FALSE,,FALSE,,FALSE,,En Gedi,[80-100]%
+WSS 212,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Qiryat Yearim,[40-59]%
+WSS 132,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,,FALSE,,TRUE,TRUE,Arad,[60-79]%
+WSS 147,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 70,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,Arad,[60-79]%
+WSS 71,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line with fan-shaped ends,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,Arad,[60-79]%
+WSS 72,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Double-line,Horizontal,Scaraboid,Artificial,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,Arad,[80-100]%
+WSS 111,Tripartite,Judah,FALSE,TRUE,TRUE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Arad,[80-100]%
+WSS 261,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[60-79]%
+CSAPI Khirbet Abu Tabaq 1,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,,FALSE,,,TRUE,Khirbet Abu Tabaq,[80-100]%
+WSS 35,Plain iconic,Judah,TRUE,TRUE,FALSE,FALSE,FALSE,,TRUE,Single-line,Symmetric,Scaraboid,Organic,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 326,Bipartite,Judah,TRUE,FALSE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,,FALSE,,FALSE,,Jerusalem,[80-100]%
+CSAPI Beth Shemesh 217,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line with dot(s),TRUE,Single-line,Symmetric,Square plaque,Stone,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Beth Shemesh,[80-100]%
+CSAPI Jerusalem 102,Bipartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,Scaraboid,Organic,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Jerusalem,[60-79]%
+CSAPI Jerusalem 28,Bipartite,Judah,FALSE,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,,,,,TRUE,,Jerusalem,[60-79]%
+CSAPI Jerusalem 125,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line with dot(s),TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+CSAPI Jerusalem 126,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Bifacial plaque,Metal,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+CSAPI Jerusalem 127,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line with dot(s),TRUE,Double-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+CSAPI Beth Shemesh 23,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,Beth Shemesh,[60-79]%
+CSAPI Jerusalem 337,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+CSAPI Jerusalem 338,Bipartite,Judah,FALSE,,FALSE,,TRUE,Double-line,TRUE,Double-line,Horizontal,Scaraboid,Organic,TRUE,,,,,TRUE,,Jerusalem,
+CSAPI Jerusalem 339,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Ladder pattern,TRUE,Single-line,Horizontal,Scaraboid,Organic,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+CSAPI Jerusalem 340,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,,Vertical,Scaraboid,Stone,TRUE,FALSE,FALSE,FALSE,,TRUE,,Jerusalem,[80-100]%
+CSAPI Jerusalem 290,Bipartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+CSAPI Jerusalem 292,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,Scaraboid,Organic,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,,Jerusalem,[60-79]%
+CSAPI Jerusalem 44a,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,,,,TRUE,FALSE,FALSE,,,Jerusalem,[80-100]%
+CSAPI Jerusalem 351,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,,Vertical,Scaraboid,Stone,FALSE,FALSE,FALSE,FALSE,,FALSE,,Jerusalem,[40-59]%
+Lipschits 2011,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Rope pattern,TRUE,Single-line,Horizontal,Scaraboid,Organic,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Ramat Rahel,[80-100]%
+CSAPI Jerusalem 341,Exergual,Judah,TRUE,FALSE,FALSE,FALSE,TRUE,Single-line,,Single-line,Vertical,Scaraboid,Stone,FALSE,FALSE,FALSE,,,TRUE,,Jerusalem,[80-100]%
+CSAPI Jerusalem 342,,Judah,FALSE,TRUE,,FALSE,,,TRUE,Double-line,Horizontal,Scaraboid,Organic,TRUE,,,,,,TRUE,Jerusalem,
+Shukron 2012,Tripartite,Judah,FALSE,TRUE,TRUE,FALSE,TRUE,Double-line,TRUE,Double-line,Vertical,,Stone,,TRUE,,FALSE,,TRUE,TRUE,Jerusalem,
+Ziffer 2015,Plain aniconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,,FALSE,,TRUE,,Mal?ata,[60-79]%
+Ben-Ami and Misgav 2016: fig. 2,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+Ben-Ami and Misgav 2016: fig. 3,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Rope pattern,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+Vainstub and Ben-Shlomo 2016,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Hebron,[80-100]%
+CSAPI Jerusalem 44b,Bipartite,Judah,FALSE,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Artificial,,,,,,,,Jerusalem,[60-79]%
+CSAPI Jerusalem 310,Plain aniconic,Judah,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,,Horizontal,Scaraboid,Stone,,FALSE,FALSE,FALSE,,TRUE,,Jerusalem,[60-79]%
+Mendel-Geberovitch et al. 2019: 158-161,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+Mendel-Geberovich et al. 2020: Fig. 5,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,Scaraboid,Stone,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Jerusalem,[80-100]%
+Vukosavovi? et al. 2024,Plain iconic,Judah,TRUE,TRUE,FALSE,FALSE,FALSE,,TRUE,Single-line,Vertical,Scaraboid,Stone,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,,Jerusalem,[80-100]%
+WSS 536,Plain aniconic,Judah,FALSE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,,,,FALSE,,FALSE,,FALSE,,Tell el-Judeideh,
+WSS 639,Plain iconic,Judah,TRUE,,FALSE,FALSE,FALSE,,TRUE,,Horizontal,,,,,,,,TRUE,TRUE,Tell el-Judeideh,
+WSS 412,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Beth Zur,[60-79]%
+WSS 405,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,,Lachish,[80-100]%
+WSS 498,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Lachish,[80-100]%
+WSS 524,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line terminating in loops,TRUE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Lachish,
+WSS 571,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Lachish,[80-100]%
+WSS 577,Bipartite,Judah,FALSE,,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Lachish,
+WSS 523,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,Lachish,[80-100]%
+WSS 416,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,,TRUE,,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Lachish,[80-100]%
+WSS 530,Plain aniconic,Judah,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,Double-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Lachish,[60-79]%
+Aharoni 1968: no. 8,,Judah,,,,,TRUE,Double-line,TRUE,,Horizontal,,,,,,,,,,Lachish,
+Aharoni 1968: no. 9,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,TRUE,,FALSE,,,TRUE,Lachish,
+Aharoni 1968: no. 10,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,,,Horizontal,,,,TRUE,FALSE,,TRUE,,FALSE,Lachish,
+Aharoni 1968: no. 11,,Judah,,,,,TRUE,Lotus-bud,TRUE,,Horizontal,,,,,,,,,,Lachish,
+Aharoni 1968: no. 12,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,TRUE,,FALSE,,TRUE,,Lachish,
+Aharoni 1968: no. 13,,Judah,,,,,TRUE,,,,Horizontal,,,,,,,,,,Lachish,
+Aharoni 1968: no. 14,,Judah,,,,,,,,,Horizontal,,,,,,,,,,Lachish,[60-79]%
+Aharoni 1968: no. 15,,Judah,,,,,,,,,Horizontal,,,,,,,,,,Lachish,
+Aharoni 1968: no. 16,,Judah,,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,,Lachish,
+Aharoni 1968: no. 17,,Judah,,,,,,,,,Horizontal,,,,,,,,,,Lachish,[80-100]%
+WSS 661,,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Vertical,,,,,,,,TRUE,FALSE,Beersheba,
+WSS 568,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Triple-line,TRUE,Double-line,Horizontal,,,,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,Tell el-Hesi,[80-100]%
+WSS 459,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 470,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 596,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 458,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 500,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 420,,Judah,FALSE,TRUE,FALSE,TRUE,TRUE,Double-line,TRUE,,Vertical,,,,FALSE,,,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 636,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 448,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 541,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 450,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[60-79]%
+WSS 447,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 515,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 467,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Ladder pattern,TRUE,Single-line,Horizontal,,,,,,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 637,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 626,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 469,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 440,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line terminating in loops,TRUE,,Horizontal,,,,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 638,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 508,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 437,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 599,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 463,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 503,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 588,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,Jerusalem,
+WSS 581,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Biconcave,TRUE,Double-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 644,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 429,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,[60-79]%
+WSS 441,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 511,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 643,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 573,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line with dot(s),TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 509,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Triple-line,TRUE,,Horizontal,,,,FALSE,FALSE,,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 482,,Judah,FALSE,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 586,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,
+WSS 466,Bipartite,Judah,FALSE,,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,,,,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 605,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,TRUE,,FALSE,TRUE,FALSE,Jerusalem,[80-100]%
+WSS 474,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,
+WSS 660,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 427,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 510,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,,TRUE,,FALSE,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 464,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Biconcave,TRUE,Double-line,Horizontal,,,,,,,,TRUE,TRUE,Jerusalem,
+WSS 595,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Jerusalem,[60-79]%
+WSS 518,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B9,Plain aniconic,Judah,FALSE,TRUE,TRUE,FALSE,FALSE,,FALSE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,
+CSAPI Jerusalem 521,Tripartite,Judah,,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Vertical,,,,TRUE,,FALSE,,,,Jerusalem,
+CSAPI Jerusalem 291,,Judah,TRUE,,,,TRUE,Double-line,TRUE,Double-line,Vertical,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 293,,Judah,,TRUE,,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,,,,,TRUE,,,,,Jerusalem,
+CSAPI Jerusalem 294,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,FALSE,,,Jerusalem,[80-100]%
+Mazar & Livyatan Ben-Arie 2015: n. B4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,
+Ben-Ami and Tchekhanovets 2010: 70-72,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Vertical,,,,FALSE,TRUE,FALSE,FALSE,,,Jerusalem,
+CSAPI Jerusalem 285,,Judah,TRUE,,,,,,,,,,,,,,,,,,Jerusalem,
+Faust 2011,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Vertical,,,,TRUE,TRUE,FALSE,FALSE,,,Tel Eton,[60-79]%
+Barkay 2011,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Reich 2012,,Judah,,,,FALSE,TRUE,Single-line,,,Vertical,,,,,,,,,,Jerusalem,
+Gadot et al. 2013,Bipartite,Judah,FALSE,,FALSE,,TRUE,Double-line,TRUE,,Horizontal,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B1-B2,Bipartite,Judah,FALSE,TRUE,FALSE,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B3,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Symmetric,,,,FALSE,FALSE,TRUE,FALSE,,FALSE,Jerusalem,[80-100]%
+Mazar & Livyatan Ben-Arie 2015: n. B5,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B6,,Judah,,,,,TRUE,Ladder pattern,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B7,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,,TRUE,,FALSE,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B8,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B10,,Judah,,TRUE,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B11,Bipartite,Judah,,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B12,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,,,Horizontal,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B13,,Judah,FALSE,TRUE,,,,,TRUE,Double-line,,,,,TRUE,,FALSE,,TRUE,FALSE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B14,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B15,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line terminating in loops,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B16,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,,,Horizontal,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B17,,Judah,,,,,TRUE,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B18,,Judah,,TRUE,,FALSE,TRUE,Double-line,TRUE,Double-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B19,,Judah,,TRUE,,FALSE,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B20,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Triple-line,TRUE,Double-line,Symmetric,,,,,,FALSE,,TRUE,,Jerusalem,[80-100]%
+Mazar & Livyatan Ben-Arie 2015: n. B21,,Judah,,,,,TRUE,Double-line,,,Horizontal,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B22,,Judah,,TRUE,,FALSE,TRUE,,TRUE,Single-line,,,,,,,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B23,,Judah,,TRUE,,FALSE,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B24,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B25,,Judah,,,,,TRUE,Single-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B26,,Judah,,,,,,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B27,,Judah,FALSE,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B28,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,FALSE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B29,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B30,,Judah,,,,,,,TRUE,Double-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B31,,Judah,,,,,,,TRUE,Single-line,,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B32,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B33,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B34,,Judah,,,,,,,TRUE,Double-line,,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B35,,Judah,FALSE,,,,TRUE,Double-line,,,Horizontal,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B36,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B37,,Judah,FALSE,TRUE,,,,,,,,,,,TRUE,TRUE,FALSE,FALSE,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B38,,Judah,,,,,,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B39,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B40,,Judah,,,,,,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B41,,Judah,,,,,TRUE,Ladder pattern,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B42,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B43,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B44,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,,,Horizontal,,,,,TRUE,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B45,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B46,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B47,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B48,,Judah,FALSE,,,,TRUE,Double-line,TRUE,Single-line,Vertical,,,,,,,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B49,,Judah,FALSE,TRUE,,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B50,,Judah,,TRUE,FALSE,FALSE,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B51,,Judah,,,,,,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B52,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B53,,Judah,,,,,TRUE,Double-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B59,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,,,,FALSE,,FALSE,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B62,,Judah,TRUE,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B63,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B64,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2015: n. B65,Plain iconic,Judah,TRUE,,,,FALSE,,TRUE,Double-line,,,,,,,,,,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B1,Plain iconic,Judah,TRUE,TRUE,FALSE,TRUE,FALSE,,TRUE,Triple-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Jerusalem,
+CSAPI Jerusalem 226,,Judah,TRUE,,,,,,TRUE,,,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 296,,Judah,TRUE,,,,,,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 297,Bipartite,Judah,FALSE,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 298,Bipartite,Judah,FALSE,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 299,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 300,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 301,Bipartite,Judah,FALSE,TRUE,,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,TRUE,,,,,Jerusalem,
+CSAPI Jerusalem 302,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 303,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 304,Bipartite,Judah,FALSE,,,,TRUE,Double-line,,,Horizontal,,,,,TRUE,,,,,Jerusalem,
+CSAPI Jerusalem 305,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Biconcave,,,Horizontal,,,,,,,,,,Jerusalem,
+CSAPI Jerusalem 306,,Judah,,,,,TRUE,Double-line,TRUE,,,,,,,,,,,,Jerusalem,
+Ornan et al. 2017,Exergual,Judah,TRUE,,FALSE,FALSE,TRUE,Double-line,TRUE,,Vertical,,,,,,,,TRUE,,Jerusalem,[80-100]%
+Mazar & Livyatan Ben-Arie 2018: n. B2-B4,Tripartite,Judah,FALSE,TRUE,TRUE,FALSE,TRUE,Double-line,,,Vertical,,,,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B5,Plain aniconic,Judah,FALSE,TRUE,TRUE,FALSE,FALSE,,TRUE,,Vertical,,,,FALSE,,FALSE,,TRUE,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B6,,Judah,,,,FALSE,TRUE,Double-line,TRUE,Double-line,,,,,,,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B7,,Judah,,,,FALSE,,,,,,,,,,,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B8,,Judah,,,,FALSE,TRUE,Double-line,TRUE,Dot border between lines,,,,,,,,,,TRUE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B9,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B10,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B11,Tripartite,Judah,TRUE,FALSE,FALSE,FALSE,TRUE,Single-line,TRUE,Double-line,Vertical,,,,FALSE,,FALSE,,TRUE,,Jerusalem,
+Mazar & Livyatan Ben-Arie 2018: n. B12,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Vertical,,,,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B13,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,,,Horizontal,,,,,TRUE,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B14,,Judah,,,,,,,TRUE,Ladder pattern,,,,,,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B15,Bipartite,Judah,FALSE,,FALSE,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B16,,Judah,,,,,,,,,,,,,,,,,TRUE,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B17,,Judah,TRUE,,,,TRUE,Double-line,TRUE,Dot border between lines,Vertical,,,,,,,,TRUE,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B18,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,,,,,TRUE,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B19,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B20,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,,,Horizontal,,,,TRUE,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B21,,Judah,TRUE,,,,,,TRUE,Double-line,,,,,,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B22,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B23,Bipartite,Judah,FALSE,,,,TRUE,Double-line,TRUE,Dot border between lines,Horizontal,,,,,,,,,,Jerusalem,
+Mazar and Livyatan Ben-Arie 2018: n. B24,,Judah,,,,,,,,,,,,,,,,,,,Jerusalem,
+Klingbeil et al. 2019: no. A-B,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Dot border between lines,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Lachish,
+Klingbeil et al. 2019: no. C,Tripartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Vertical,,,,,,,,,TRUE,Lachish,
+Mendel-Geberovitch et al. 2019: 161-166,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Double-line,Horizontal,,,,FALSE,,FALSE,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 1,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 2,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 3,,Judah,,,,,TRUE,Single-line,,,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 4,,Judah,,TRUE,,,TRUE,Double-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 5,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 6,,Judah,,,,,TRUE,,,,,,,,TRUE,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 7,,Judah,,TRUE,,,TRUE,Single-line,,,,,,,TRUE,,FALSE,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 8,,Judah,,TRUE,,FALSE,TRUE,Triple-line,TRUE,Single-line,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 9,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,,,Jerusalem,[80-100]%
+Mendel-Geberovich et al. 2020: no. 10,,Judah,TRUE,,,,TRUE,Single-line,,,Horizontal,,,,,TRUE,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 11,,Judah,TRUE,TRUE,,FALSE,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 12,Bipartite,Judah,FALSE,,,,TRUE,Biconcave,,,Horizontal,,,,,TRUE,,,,,Jerusalem,
+Mendel-Geberovich et al. 2020: no. 13,,Judah,,,,,TRUE,Double-line,,,,,,,,,,,,,Jerusalem,
+Vukosavovi? and Chalaf 2020: Fig. 2,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Triple-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,,,Jerusalem,
+Vukosavovi? and Chalaf 2020: Fig. 4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,,,Jerusalem,
+Unpublished (in the news in July 2021),Bipartite,Judah,TRUE,TRUE,FALSE,FALSE,TRUE,Double-line,,,Horizontal,,,,FALSE,,FALSE,,,TRUE,Jerusalem,
+Vanderhooft et al. 2022,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,,,Jerusalem,
+WSS 700,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 667,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 676,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 684,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[60-79]%
+WSS 691,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 702,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 703,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 709,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,FALSE,,Horizontal,,,,,,,,,,Provincial Judah,
+WSS 663,Bipartite,Judah,FALSE,FALSE,FALSE,TRUE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,,TRUE,,TRUE,,Provincial Judah,[60-79]%
+WSS 666,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 698,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+CSAPI Beth Shemesh 199,,Judah,FALSE,,,,FALSE,,TRUE,Single-line,Symmetric,,,,,,,,,,Provincial Judah,[80-100]%
+WSS 670,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 674,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 677,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 694,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 696,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 679,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 682,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 690,Plain aniconic,Judah,FALSE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,,,,FALSE,,FALSE,,TRUE,,Provincial Judah,
+WSS 701,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 704,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[60-79]%
+WSS 706,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 707,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+Diringer 1941: 53, No. 19, Pl. 4:10,,Judah,,,,,,,TRUE,,,,,,,,,,,,Provincial Judah,
+Diringer 1941: 49, No. 11, Pl. IV:4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,TRUE,,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 665,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[60-79]%
+WSS 697,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[80-100]%
+WSS 680,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 699,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,
+Aharoni 1962: 44, no. 2,Bipartite,Judah,FALSE,,,,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,,,Provincial Judah,[80-100]%
+Aharoni 1962: 19, no. 4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+Aharoni 1962: 18-19, no. 3,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,FALSE,,TRUE,TRUE,,Provincial Judah,
+Aharoni 1962: 44, no. 1,Bipartite,Judah,,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,,Provincial Judah,
+WSS 673,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,[60-79]%
+WSS 686,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+WSS 685,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,,Horizontal,,,,FALSE,,FALSE,,TRUE,,Provincial Judah,
+WSS 683,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,FALSE,Provincial Judah,[80-100]%
+Ussishkin 2004: 2137, no. 80,,Judah,,TRUE,FALSE,FALSE,TRUE,Single-line,,,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,,,Provincial Judah,
+WSS 664,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+WSS 688,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Jerusalem,[80-100]%
+Ussishkin 2004: 2138, no. 91,,Judah,,TRUE,FALSE,FALSE,,,,,Symmetric,,,,,,,,,TRUE,Provincial Judah,
+CSAPI Jerusalem 103,Plain aniconic,Judah,FALSE,TRUE,FALSE,FALSE,FALSE,,,,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,,FALSE,Jerusalem,[80-100]%
+CSAPI Jerusalem 106,,Judah,,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,,Jerusalem,
+Seligman 2009,Plain aniconic,Judah,FALSE,TRUE,FALSE,FALSE,FALSE,,,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,Provincial Judah,
+Lipschits 2010,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,Provincial Judah,[80-100]%
+Shai et al. 2014,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Provincial Judah,[80-100]%
+Garfinkel et al. 2021,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,,,Horizontal,,,,TRUE,TRUE,,FALSE,TRUE,TRUE,Provincial Judah,[80-100]%
+Sapir et al. 2023: no. 17,Bipartite,Judah,,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,,Provincial Judah,
