@@ -276,36 +276,36 @@ WSS 701,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line
 WSS 704,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[60-79]%
 WSS 706,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
 WSS 707,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
-Diringer 1941: 53, No. 19, Pl. 4:10,,Judah,,,,,,,TRUE,,,,,,,,,,,,
-Diringer 1941: 49, No. 11, Pl. IV:4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,TRUE,,FALSE,TRUE,FALSE,[80-100]%
+"Diringer 1941: 53, No. 19, Pl. 4:10",,Judah,,,,,,,TRUE,,,,,,,,,,,,
+"Diringer 1941: 49, No. 11, Pl. IV:4",Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,,Horizontal,,,,,TRUE,,FALSE,TRUE,FALSE,[80-100]%
 WSS 711,Exergual,Israel,TRUE,FALSE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Vertical,,,,,,,,TRUE,,[60-79]%
 WSS 665,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,[60-79]%
 WSS 697,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,[80-100]%
 WSS 680,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,[80-100]%
 WSS 681,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,[80-100]%
 WSS 699,,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,,TRUE,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
-Aharoni 1962: 44, no. 2,Bipartite,Judah,FALSE,,,,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,,,[80-100]%
-Aharoni 1962: 19, no. 4,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
-Aharoni 1962: 18-19, no. 3,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,FALSE,,TRUE,TRUE,,
-Aharoni 1962: 44, no. 1,Bipartite,Judah,,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,,
+"Aharoni 1962: 44, no. 2",Bipartite,Judah,FALSE,,,,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,,,[80-100]%
+"Aharoni 1962: 19, no. 4",Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
+"Aharoni 1962: 18-19, no. 3",Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,FALSE,,TRUE,TRUE,,
+"Aharoni 1962: 44, no. 1",Bipartite,Judah,,,,,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,,
 WSS 672,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
 WSS 673,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,[60-79]%
 WSS 686,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
 WSS 685,Plain iconic,Judah,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,,Horizontal,,,,FALSE,,FALSE,,TRUE,,
 WSS 683,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,,,,,TRUE,FALSE,[80-100]%
 WSS 668,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,FALSE,,TRUE,,,,,,FALSE,FALSE,FALSE,FALSE,TRUE,,
-Ussishkin 2004: 2137, no. 80,,Judah,,TRUE,FALSE,FALSE,TRUE,Single-line,,,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,,,
+"Ussishkin 2004: 2137, no. 80",,Judah,,TRUE,FALSE,FALSE,TRUE,Single-line,,,Horizontal,,,,TRUE,FALSE,FALSE,FALSE,,,
 WSS 664,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,[80-100]%
 WSS 687,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[60-79]%
 WSS 688,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Symmetric,,,,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,[80-100]%
 WSS 692,Plain aniconic,Israel,FALSE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,TRUE,,[60-79]%
 WSS 669,Plain aniconic,Israel,FALSE,FALSE,FALSE,FALSE,FALSE,,TRUE,Single-line,Horizontal,,,,TRUE,,FALSE,,FALSE,,[60-79]%
-Ussishkin 2004: 2138, no. 91,,Judah,,TRUE,FALSE,FALSE,,,,,Symmetric,,,,,,,,,TRUE,
+"Ussishkin 2004: 2138, no. 91",,Judah,,TRUE,FALSE,FALSE,,,,,Symmetric,,,,,,,,,TRUE,
 CSAPI Jerusalem 103,Plain aniconic,Judah,FALSE,TRUE,FALSE,FALSE,FALSE,,,,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,,FALSE,[80-100]%
 CSAPI Jerusalem 106,,Judah,,,,,TRUE,Double-line,,,Horizontal,,,,,,,,,,
 Barkay 2005: 171–172,Plain aniconic,Israel,,FALSE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Vertical,,,,TRUE,,FALSE,,TRUE,,[60-79]%
 Seligman 2009,Plain aniconic,Judah,FALSE,TRUE,FALSE,FALSE,FALSE,,,,Horizontal,,,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
-Brandl 2009: 139, n. 17,,Israel,,,,,,,,,,,,,,,,,,TRUE,
+"Brandl 2009: 139, n. 17",,Israel,,,,,,,,,,,,,,,,,,TRUE,
 Lipschits 2010,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Single-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,[80-100]%
 Shai et al. 2014,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Double-line,TRUE,Single-line,Horizontal,,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,[80-100]%
 Garfinkel et al. 2021,Bipartite,Judah,FALSE,TRUE,FALSE,FALSE,TRUE,Lotus-bud,,,Horizontal,,,,TRUE,TRUE,,FALSE,TRUE,TRUE,[80-100]%
